@@ -1,0 +1,134 @@
+2021-01-28 16:26:24,751 JDX INFO handle_log.py-51 line：1111111111111111
+2021-01-28 16:26:44,009 JDX INFO handle_log.py-51 line：This is a test file!
+2021-01-28 16:26:52,327 JDX INFO handle_log.py-50 line：This is a test file!
+2021-01-28 16:27:00,639 JDX INFO handle_log.py-50 line：This is a test file!
+2021-01-28 18:11:22,514 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:11:22,514 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:11:22,514 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:11:22,514 JDX INFO handle_request.py-21 line：请求数据为：None
+2021-01-28 18:11:53,878 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:11:53,878 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:11:53,878 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:11:53,878 JDX INFO handle_request.py-21 line：请求数据为：None
+2021-01-28 18:12:42,745 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:12:42,745 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:12:42,745 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:12:42,745 JDX INFO handle_request.py-21 line：请求数据为：None
+2021-01-28 18:13:21,132 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:13:21,132 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:13:21,132 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:13:21,132 JDX INFO handle_request.py-21 line：请求数据为：None
+2021-01-28 18:13:21,384 JDX INFO handle_request.py-28 line：响应状态码为：200
+2021-01-28 18:13:21,384 JDX INFO handle_request.py-29 line：响应数据为：{'code': 405, 'resultMessage': "org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported"}
+2021-01-28 18:14:21,318 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:14:21,318 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:14:21,319 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:14:21,319 JDX INFO handle_request.py-21 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 18:14:21,465 JDX INFO handle_request.py-28 line：响应状态码为：200
+2021-01-28 18:14:21,465 JDX INFO handle_request.py-29 line：响应数据为：{'code': 405, 'resultMessage': "org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported"}
+2021-01-28 18:16:27,385 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:16:27,385 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:16:27,385 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:16:27,385 JDX INFO handle_request.py-21 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 18:16:27,480 JDX INFO handle_request.py-28 line：响应状态码为：200
+2021-01-28 18:16:27,480 JDX INFO handle_request.py-29 line：响应数据为：{'code': 405, 'resultMessage': "org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported"}
+2021-01-28 18:16:35,402 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:16:35,402 JDX INFO handle_request.py-17 line：请求方法为：get
+2021-01-28 18:16:35,402 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:16:35,403 JDX INFO handle_request.py-21 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 18:19:03,924 JDX INFO handle_request.py-16 line：发起一次HTTP请求
+2021-01-28 18:19:03,924 JDX INFO handle_request.py-17 line：请求方法为：post
+2021-01-28 18:19:03,924 JDX INFO handle_request.py-20 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 18:19:03,924 JDX INFO handle_request.py-21 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 18:19:04,568 JDX INFO handle_request.py-28 line：响应状态码为：200
+2021-01-28 18:19:04,569 JDX INFO handle_request.py-29 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': 'c6d04c02d89664ade2e94f661f7cc75c', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:25:34,361 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:25:34,361 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:25:34,361 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:25:34,361 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:25:34,864 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:25:34,864 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '02748b602b5eab25619e16bb2f787b00', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:26:42,960 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:26:42,960 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:26:42,960 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:26:42,960 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:26:43,228 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:26:43,229 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '6a0985d1b836b9987776fd69e65ce10a', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:27:15,272 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:27:15,273 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:27:15,273 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:27:15,273 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:27:15,546 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:27:15,546 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': 'd1b99d3fdefad49261aecfe62f3fccae', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:31:13,222 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:31:13,222 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:31:13,222 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:31:13,222 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:31:13,608 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:31:13,608 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '0c5a504d40f137c136b7cf3f37c5caf9', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:31:27,977 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:31:27,977 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:31:27,977 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:31:27,977 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:31:28,387 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:31:28,387 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '13607ceec74614e4b1bc433448f2fff7', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:31:47,327 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:31:47,327 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:31:47,327 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:31:47,327 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:31:47,617 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:31:47,617 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': 'e72729490b718fc37670a228102c91fc', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:32:00,103 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:32:00,103 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:32:00,103 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:32:00,103 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:32:00,490 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:32:00,490 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '7c299c3695d16f698c946c5984e031df', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:32:59,058 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:32:59,058 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:32:59,059 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:32:59,059 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:32:59,471 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:32:59,472 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '8eff34ca660be47c93f1a7ec7b9fe2eb', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:33:37,972 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:33:37,972 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:33:37,972 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:33:37,972 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:33:38,254 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:33:38,254 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': 'dfd9480df52c85ba82f47fceebe1f1a3', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:45:35,809 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:45:35,809 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:45:35,809 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:45:35,809 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:45:36,105 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:45:36,105 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '2984ccf47c5a2a954f67849da9764ace', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:45:48,242 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:45:48,242 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:45:48,242 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:45:48,242 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:45:48,602 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:45:48,602 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': 'dccaf4d066d93130f2d5435872b554e2', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:51:10,699 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:51:10,699 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:51:10,699 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:51:10,699 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:51:10,977 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:51:10,977 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '57b271924b39cc0f22a8cdbee6b3e582', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:52:04,530 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:52:04,530 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:52:04,530 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:52:04,531 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:52:04,806 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:52:04,806 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '416a3493ce53bcc1a1e35b3e83d7a8f2', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:52:41,973 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:52:41,973 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:52:41,973 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:52:41,973 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:52:42,229 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:52:42,229 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': '0b7e08a9804a3807d2e9b2a614940060', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
+2021-01-28 19:54:15,822 JDX INFO handle_request.py-17 line：发起一次HTTP请求
+2021-01-28 19:54:15,822 JDX INFO handle_request.py-18 line：请求方法为：post
+2021-01-28 19:54:15,822 JDX INFO handle_request.py-21 line：请求url为：https://sjapi.aihuishou.com/jdx-account-service/app/authentication/captcha/register/login
+2021-01-28 19:54:15,822 JDX INFO handle_request.py-22 line：请求数据为：{'captcha': '000000', 'mobile': '19128326083', 'appChannel': 'jdx_00002'}
+2021-01-28 19:54:16,096 JDX INFO handle_request.py-29 line：响应状态码为：200
+2021-01-28 19:54:16,096 JDX INFO handle_request.py-30 line：响应数据为：{'code': 200, 'data': {'optMerChantId': 147997, 'refreshToken': 'aa8280b1a60f3d523ada8d07c7c0c1c2', 'refreshTokenExpiresIn': 2592000, 'token': 'a4945c7bef2c9b45cb6de6f6f346ede9', 'tokenExpiresIn': 86400, 'userId': 6}, 'resultMessage': ''}
